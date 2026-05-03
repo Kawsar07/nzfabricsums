@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>SolScada Updates</title>
+    <link>https://kawsar07.github.io/SolScada/appcast.xml</link>
+    <description>SolScada app update feed</description>
+
+   <!-- ANDROID -->
+<item>
+  <title>Version 5.0.5</title>
+  <description>
+    - Bug fixes and performance improvements
+    - UI improvements
+    - Security updates
+  </description>
+  <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
+  <enclosure
+    url="https://play.google.com/store/apps/details?id=com.nz_bd.nz_scada"
+    sparkle:version="5.0.5"
+    sparkle:shortVersionString="5.0.5"
+    sparkle:os="android"
+    type="application/octet-stream"
+    length="1"/>
+</item>
+
+<!-- iOS -->
+<item>
+  <title>Version 5.0.3</title>
+  <description>
+    - Bug fixes and performance improvements
+    - UI improvements
+    - Security updates
+  </description>
+  <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
+  <enclosure
+    url="https://apps.apple.com/ca/app/solscada/id6756875745"
+    sparkle:version="5.0.3"
+    sparkle:shortVersionString="5.0.3"
+    sparkle:os="ios"
+    type="application/octet-stream"
+    length="1"/>
+</item>
+
+  </channel>
+</rss>
